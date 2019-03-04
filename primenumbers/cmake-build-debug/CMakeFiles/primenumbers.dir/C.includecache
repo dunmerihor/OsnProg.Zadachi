@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/CLionProjects/primenumbers/main.c
+stdio.h
+C:/Users/Admin/CLionProjects/primenumbers/stdio.h
+math.h
+C:/Users/Admin/CLionProjects/primenumbers/math.h
+
