@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/CLionProjects/dynamicarray/main.c
+stdio.h
+-
+stdlib.h
+C:/Users/Admin/CLionProjects/dynamicarray/stdlib.h
+math.h
+C:/Users/Admin/CLionProjects/dynamicarray/math.h
+
