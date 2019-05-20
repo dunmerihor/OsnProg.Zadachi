@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/CLionProjects/Matrix3x3/main.c
+stdio.h
+C:/Users/Admin/CLionProjects/Matrix3x3/stdio.h
+stdlib.h
+C:/Users/Admin/CLionProjects/Matrix3x3/stdlib.h
+math.h
+C:/Users/Admin/CLionProjects/Matrix3x3/math.h
+
