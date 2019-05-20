@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/massive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/CLionProjects/massive/cmake-build-debug/CMakeFiles/massive.dir
+C:/Users/Admin/CLionProjects/massive/cmake-build-debug/CMakeFiles/edit_cache.dir
