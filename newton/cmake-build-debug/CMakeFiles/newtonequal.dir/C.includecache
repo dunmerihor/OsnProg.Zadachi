@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/CLionProjects/newtonequal/main.c
+stdio.h
+C:/Users/Admin/CLionProjects/newtonequal/stdio.h
+math.h
+C:/Users/Admin/CLionProjects/newtonequal/math.h
+
